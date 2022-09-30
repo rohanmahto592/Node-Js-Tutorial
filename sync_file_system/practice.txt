@@ -1,0 +1,6 @@
+1.create new folder  with a name file_folder
+2.create new file as 'demo.txt' inside a folder
+3.add text inside a file
+4.append new text inside a file
+5.read a file without buffer data
+6.delete folder and file
